@@ -19,19 +19,32 @@ Web interface built with Flask (app.py)
 Model persistence with Pickle (model.pkl, vectorizer.pkl)
 
 🛠️ Installation & Setup
+
+
+
+
 1️⃣ Clone Repository
 git clone https://github.com/Tejaswinipabbathi/Fake-Job-Posting-Detection.git
+
+
+
 cd Fake-Job-Posting-Detection
 
 2️⃣ Create Virtual Environment (Recommended)
+
+
 python -m venv venv
 venv\Scripts\activate   # On Windows
 source venv/bin/activate  # On Mac/Linux
 
 3️⃣ Install Dependencies
+
+
 pip install -r requirements.txt
 
 ▶️ Usage
+
+
 Train the Model
 python train_model.py
 
