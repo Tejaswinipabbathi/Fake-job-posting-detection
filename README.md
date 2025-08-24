@@ -1,8 +1,5 @@
 🕵️ Fake Job Posting Detection
-
-A Machine Learning project that detects whether a job posting is real or fake using Natural Language Processing (NLP) and a Random Forest Classifier.
-
-This project helps identify fraudulent job ads that often mislead job seekers.
+A machine learning project that identifies whether a job posting is real or fake using text processing, TF-IDF vectorization, and a Random Forest Classifier. This helps job seekers avoid fraudulent ads.
 
 📌 Features
 
