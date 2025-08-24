@@ -18,24 +18,6 @@ Web interface built with Flask (app.py)
 
 Model persistence with Pickle (model.pkl, vectorizer.pkl)
 
-📂 Project Structure
-Fake-Job-Posting-Detection/
-├── data/
-│   └── FakeJobPostings2.xlsx         # Dataset
-├── models/
-│   ├── model.pkl                     # Trained Random Forest model
-│   └── vectorizer.pkl                # TF-IDF vectorizer
-├── templates/
-│   └── index.html                    # Web UI (Flask)
-├── static/
-│   └── style.css                     # CSS for UI
-├── app.py                            # Flask web app
-├── main.py                           # Script to train/test model
-├── train_model.py                    # Training pipeline
-├── run_all.py                        # Combined execution script
-├── requirements.txt                  # Dependencies
-└── README.md                         # Project documentation
-
 🛠️ Installation & Setup
 1️⃣ Clone Repository
 git clone https://github.com/Tejaswinipabbathi/Fake-Job-Posting-Detection.git
@@ -57,8 +39,7 @@ Run the Flask App
 python app.py
 
 
-Then open: http://127.0.0.1:5000/
- in your browser
+Then open: http://127.0.0.1:5000/ in your browser
 
 📊 Results
 
