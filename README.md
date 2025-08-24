@@ -88,5 +88,4 @@ Use Deep Learning (LSTMs, Transformers) for better text understanding
 Improve UI with modern frontend
 
 👩‍💻 Author
-
 Tejaswini Pabbathi
